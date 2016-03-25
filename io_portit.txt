@@ -1,0 +1,37 @@
+######################################
+### Siirtorekisteri ja näyttö
+######################################
+        Siirtorekisterin lähtö                  Näyttösegmentti
+        Q0                                      e
+        Q1                                      d
+        Q2                                      c
+        Q3                                      .
+        
+        Q4                                      b
+        Q5                                      a
+        Q6                                      f
+        Q7                                      g
+
+        Siirtorekisterin tulo                   Porttipinni
+        kello                                   PD.3
+        data                                    PD.5
+        enable'                                 PD.4
+        
+
+######################################
+### Näytön vuorottelu
+######################################
+        Porttipinni             Näyttö
+        PD.0                    A
+        PD.1                    B
+        
+
+######################################
+### Levyn LED:it
+######################################
+        Porttipinni             LED
+        PB.0..7                 0..7
+
+
+
+
